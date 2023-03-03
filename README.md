@@ -29,4 +29,4 @@ I'm a *IT Vendor Manager Analyst* changing to a new path carrer of programing. C
 | ----- |------|
 | ls | Lista; este fomrato arroja la ubicación en la que estamos actualmente. |
 | clean | asdfasd |
-| test | asdasdas |
+|cd | Para navegar entre directorios |
