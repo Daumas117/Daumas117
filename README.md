@@ -35,7 +35,7 @@ life-cycle data, reporting, and optimization projects.
 
 ### ⚡ Fun facts
 
-My passion for IT started because i wanted to play videogames, but i didnt had one. I started researching how to build PC's and all the information regarding which component it's better, or the pros and cons of X or Y product. Comparing all the components and changing my budget accordingly to the new information. I Love all the process of reviewing information (data) and trying to figure it out the best fit for me. 
+My passion for IT started because I wanted to play video games, but I didn't have a PC. I started researching how to build PCs and all the information about which components are better, as well as the pros and cons of products X and Y. I compared all the components and changed my budget accordingly based on the new information. I love the whole process of reviewing information and trying to figure out the best fit for me.
 
 I love reading fantasy sci-fi books.
 
