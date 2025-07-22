@@ -11,8 +11,8 @@ life-cycle data, reporting, and optimization projects.
 ## 🔧 Skills & Tools
 
 - **Data tools**: SQL, Python (Pandas, NumPy), Power Bi, Tableau, Excel (Advanced)
+- **Other Tolls:** Service Now, ITSM, SAP, Microsoft 365, Smartsheet, MIRO.
 - **Core Competencies**: Data Cleaning, Dashboarding, KPI Tracking, RFX Analysis, Cost Optimization, Contract Auditing, SCRUM, Project Planning
-- **IT Systems**: ServiceNow ITSM, Microsoft 365 Licensing, S4HANA
 - **Soft Skills**: Communication, Analytical thinking, Project coordination, Analytical Base Decision
 
 ---
