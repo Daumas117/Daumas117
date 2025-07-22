@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jose Daumas Gonzalez Aragon
 
-**Data Analyst | Based in Krakow, Poland | French Passport (EU Work Permit)**
+**Data Analyst | Mexican Based in Krakow, Poland | French Passport (EU Work Permit) Dual Citzenship**
 
 ---
 - Detail-oriented IT professional with 5+ years of experience in IT Vendor and Contract Management, transitioning
