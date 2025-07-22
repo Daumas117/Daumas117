@@ -11,10 +11,10 @@ I bring a strong background in tech project coordination and vendor data, and I�
 
 ## 🔧 Skills & Tools
 
-- **Languages**: SQL, Python (Pandas, NumPy)
-- **BI Tools**: Power BI, Tableau, Excel
+- **Data tools**: SQL, Python (Pandas, NumPy), Power Bi, Tableau, Excel (Advanced)
+- **Core Competencies**: Data Cleaning, Dashboarding, KPI Tracking, RFX Analysis, Cost Optimization, Contract Auditing, SCRUM, Project Planning
 - **IT Systems**: ServiceNow ITSM, Microsoft 365 Licensing, S4HANA
-- **Soft Skills**: Communication | Analytical Thinking | Project Coordination
+- **Soft Skills**: Communication, Analytical thinking, Project coordination, Analytical Base Decision
 
 ---
 
@@ -24,17 +24,6 @@ I bring a strong background in tech project coordination and vendor data, and I�
 - 🧮 Analyze Data With SQL – Codecademy (2025)  
 - 📈 Data Analytics Essentials – Cisco (2023)  
 - 📘 ITIL Fundamentals v4 – PeopleCert (2019)
-
----
-
-## 🛠️ Recent Projects
-
-> *(Coming soon – links below will be active once repositories are added)*
-
-- 📉 [**IT Vendor Spend Dashboard**](#): Power BI dashboard from SQL data showing contract timelines and spend
-- 🧠 [**License Optimization Model**](#): Python-based M365 license profiling with visualization in Excel
-- 🔍 [**IT Contract Audit Automations**](#): Tools built with Python and SQL for contract review & compliance support
-
 ---
 
 ## 📬 Let's Connect
@@ -45,10 +34,10 @@ I bring a strong background in tech project coordination and vendor data, and I�
 
 ---
 
-### ⚡ Fun fact
+### ⚡ Fun facts
 
-I love digging into messy datasets, spotting patterns, and building intuitive dashboards to tell stories through data.
+My passion for IT started because i wanted to play videogames, but i didnt had one. I started researching how to build PC's and all the information regarding which component it's better, or the pros and cons of X or Y product. Comparing all the components and changing my budget accordingly to the new information. I Love all the process of reviewing information (data) and trying to figure it out the best fit for me. 
+
+I love reading fantasy sci-fi books.
 
 ---
-
-> Thanks for visiting my profile! I'm currently open to entry- and mid-level data analyst roles in Europe 🇪🇺.
