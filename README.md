@@ -4,9 +4,9 @@
 
 ---
 
-💡 I’m an IT professional transitioning into Data Analytics with 5+ years of experience in IT Vendor Management, Licensing, and Contract Analysis.  
-I bring a strong background in tech project coordination and vendor data, and I’m passionate about transforming raw data into insights that drive business decisions.
-
+💡 Detail-oriented IT professional with 5+ years of experience in IT Vendor and Contract Management, transitioning
+to Data Analytics. Skilled in SQL, Python, Excel, Power BI, and Tableau, with a strong background in contract
+life-cycle data, reporting, and optimization projects. 
 ---
 
 ## 🔧 Skills & Tools
