@@ -3,9 +3,11 @@
 **Data Analyst | Mexican Based in Krakow, Poland | French Passport (EU Work Permit) Dual Citzenship**
 
 ---
-- Detail-oriented IT professional with 5+ years of experience in IT Vendor and Contract Management, transitioning
+
+Detail-oriented IT professional with 5+ years of experience in IT Vendor and Contract Management, transitioning
 to Data Analytics. Skilled in SQL, Python, Excel, Power BI, and Tableau, with a strong background in contract
 life-cycle, data, reporting, and optimization projects. 
+
 ---
 
 ## 🔧 Skills & Tools
