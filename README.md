@@ -30,12 +30,13 @@ life-cycle, data, reporting, and optimization projects.
 - 📫 Email: [josedaumas@hotmail.com](mailto:josedaumas@hotmail.com)
 - 🌍 Location: Kraków, Poland
 - 🇪🇺 Nationality: Mexican / French (French passport allows me to work in the EU)
+- Language: English / Spanish. Learning Polish.
 
 ---
 
 ### ⚡ Fun facts
 
-My passion for IT started because I wanted to play video games. I used to watch others play the games that I wanted to play, but I didn't have a PC to run them. I started researching how to build a PCs and all the information about which components are better, as well as the pros and cons of products X and Y. I compared all the components and changed my budget accordingly based on the new information. I love the entire process of reviewing information and trying to figure out the best fit for me. Before i knew it, i was already learning how each component communicates with each other.
+My passion for IT started because I wanted to play video games. I used to watch others play the games that I wanted to play, but I didn't have a PC to run them. I started researching how to build a PCs and all the information about which components are better, as well as the pros and cons of products X and Y. I compared all the components and changed my budget accordingly based on the new information. I love the entire process of reviewing information and trying to figure out the best fit for me. Before I knew it, I was already learning how each component communicates with each other.
 
 Interests:
   - Reading fantasy sci-fi books.
