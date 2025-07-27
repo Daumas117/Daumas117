@@ -12,9 +12,9 @@ life-cycle, data, reporting, and optimization projects.
 
 ## 🔧 Skills & Tools
 
-- **Data tools**: SQL, Python (Pandas, NumPy), Power Bi, Tableau, Excel (Advanced)
+- **Data tools**: SQL, Python (Pandas, NumPy), Power Bi, Tableau, Excel (Advanced).
 - **Other Tools:** Service Now, ITSM, SAP, Microsoft 365, Smartsheet, MIRO.
-- **Core Competencies**: Data Cleaning, Dashboarding, KPI Tracking, RFX Analysis, Cost Optimization, Contract Auditing, SCRUM, Project Planning, AGILE.
+- **Core Competencies**: Data Cleaning, Dashboard, KPI Tracking, RFX Analysis, Cost Optimization, Contract Auditing, SCRUM, Project Planning, AGILE.
 - **Soft Skills**: Communication, Analytical thinking, Project coordination, Analytical Base Decision
 
 ---
@@ -30,8 +30,9 @@ life-cycle, data, reporting, and optimization projects.
 ## 📬 Let's Connect
 
 - 📫 Email: [josedaumas@hotmail.com](mailto:josedaumas@hotmail.com)
-- 🌍 Location: Kraków, Poland
-- 🇪🇺 Nationality: Mexican / French (French passport allows me to work in the EU)
+-  Contact info: linkedin.com/in/jose-daumas/
+- 🌍 Location: Kraków, Poland.
+- 🇪🇺 Nationality: Mexican / French (French passport allows me to work in the EU).
 - Language: English / Spanish. Learning Polish.
 
 ---
